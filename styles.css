@@ -1,0 +1,83 @@
+body {
+    background-color:#fff;
+    padding:50px;
+    font:14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:#727272;
+    font-weight:400;
+}
+h1,h2,h3,h4,h5,h6,p,ul,ol,table,pre,dl { margin:0 0 10px; }
+h1,h2,h3 { line-height:1.1 }
+h1 {font-size:28px }
+h2 { color:#393939 }
+h3,h4,h5,h6 { color:#494949 }
+a { color:#267CB9;text-decoration:none }
+a:hover,a:focus { color:#069;font-weight:bold;}
+li {
+    margin: 0px 0 15px 0;
+}
+li * {
+    display: block;
+}
+#chaveTitle {
+    margin: 40px 0 20px 0;
+}
+li h3 {
+    margin-bottom: 5px;
+}
+li span {
+    font-style: italic;
+}
+li a{
+    margin: 5px 0 5px 0;
+}
+
+metamorfica
+GNEISS 23
+SCHIST 24
+MARBLE 25
+QUARTZITE 26 
+SLATE 27
+SERPENTINITE 28
+
+ignea
+RHYOLITE 29
+GRANITE 30
+DIORITE 31
+BASALT 32
+DIABASE 33
+GABBRO 34
+PUMICE 35
+SCORIA 36
+OBSIDIAN 37
+
+SEDIMENTAR 
+SANDSTONE 38
+SHALE 39
+LIMESTONE 40
+CONGLOMERATE 41
+BRECCIA 42
+
+GNEISS 23
+XISTO 24
+MÁRMORE 25
+QUARTZITO 26
+SLATE 27
+SERPENTINITA 28
+
+ígnea
+RIOLITO 29
+GRANITO 30
+DIORITO 31
+BASALT 32
+DIABASE 33
+GABRO 34
+POMES 35
+ESCORIA 36
+OBSIDIAN 37
+
+SEDIMENTAR
+ARENITO 38
+Xisto 39
+PEDRA CALÇA 40
+CONGLOMERADO 41
+BRECCIA 42
